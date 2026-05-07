@@ -72,5 +72,6 @@ We may update this Privacy Policy from time to time to reflect changes in our pr
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or how your data is handled, please contact the developer at:
 
-**Email:** [INSERT YOUR EMAIL HERE]  
-**Website:** [INSERT YOUR WEBSITE OR GITHUB REPO LINK HERE]
+**Email:** dev.abhishek.ai@gmail.com
+  
+
